@@ -47,7 +47,9 @@ icons
 icons: holds the icon used as the logo of the website
 
 index.html: The main HTML file.
+
 styles.css: The CSS file for styling the application.
+
 script.js: The JavaScript file for fetching and displaying news articles.
 
 Acknowledgements
