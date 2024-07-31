@@ -52,6 +52,8 @@ styles.css: The CSS file for styling the application.
 
 script.js: The JavaScript file for fetching and displaying news articles.
 
+
+
 Acknowledgements
 
 Coding Shuttle as the source to learn and build this website
@@ -60,6 +62,9 @@ News API for providing the news data.
 
 
 
+
 GitHub: samrat-sarkar-git
+
+
 
 Enjoy using the News Feeding website and stay updated with the latest news!
