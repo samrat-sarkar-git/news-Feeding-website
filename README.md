@@ -1,4 +1,5 @@
 New Feeding Application
+
 Welcome to the New Feeding Application! This project is a web application that fetches and displays the latest news from various sources using the News API. The application is built using HTML, CSS, and JavaScript.
 
 Features
