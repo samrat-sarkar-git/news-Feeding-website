@@ -9,12 +9,18 @@ Displays news headlines, descriptions, and links to full articles.
 User-friendly and responsive design.
 Easy to navigate and read news articles.
 
+![Screenshot (111)](https://github.com/user-attachments/assets/8bbccb8a-ce4d-42e0-a5c0-0e804d2c4f5f)
+
+![Screenshot (113)](https://github.com/user-attachments/assets/1703cc4b-a730-466b-8a1a-e22ca0c178a9)
+
 Technologies Used
 
 HTML: For structuring the web pages.
+
 CSS: For styling the web pages.
 JavaScript: For fetching and displaying the news articles.
 News API: To fetch the latest news articles from various sources.
+
 Installation
 Clone the repository to your local machine:
 
